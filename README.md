@@ -1,3 +1,10 @@
+## Тестовое задание от компании Newton Finance
+
+Требуется сделать веб-приложение, которое будет выводить данные,
+полученные с сервера, в виде списка. Должна быть возможность добавить
+элемент в закладки и посмотреть их в отдельном окне/странице.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
