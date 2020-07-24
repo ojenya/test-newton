@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-newton/static/css/main.d1724c16.chunk.css",
-    "main.js": "/test-newton/static/js/main.25eb7405.chunk.js",
-    "main.js.map": "/test-newton/static/js/main.25eb7405.chunk.js.map",
+    "main.js": "/test-newton/static/js/main.039d6321.chunk.js",
+    "main.js.map": "/test-newton/static/js/main.039d6321.chunk.js.map",
     "runtime-main.js": "/test-newton/static/js/runtime-main.48674b11.js",
     "runtime-main.js.map": "/test-newton/static/js/runtime-main.48674b11.js.map",
     "static/js/2.450fe9e1.chunk.js": "/test-newton/static/js/2.450fe9e1.chunk.js",
     "static/js/2.450fe9e1.chunk.js.map": "/test-newton/static/js/2.450fe9e1.chunk.js.map",
     "index.html": "/test-newton/index.html",
-    "precache-manifest.233405a3e762eda758c91a9e426c5a36.js": "/test-newton/precache-manifest.233405a3e762eda758c91a9e426c5a36.js",
+    "precache-manifest.cae14d1c92ea70cb0055da608c99b6be.js": "/test-newton/precache-manifest.cae14d1c92ea70cb0055da608c99b6be.js",
     "service-worker.js": "/test-newton/service-worker.js",
     "static/css/main.d1724c16.chunk.css.map": "/test-newton/static/css/main.d1724c16.chunk.css.map",
     "static/js/2.450fe9e1.chunk.js.LICENSE.txt": "/test-newton/static/js/2.450fe9e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.48674b11.js",
     "static/js/2.450fe9e1.chunk.js",
     "static/css/main.d1724c16.chunk.css",
-    "static/js/main.25eb7405.chunk.js"
+    "static/js/main.039d6321.chunk.js"
   ]
 }
