@@ -1,13 +1,12 @@
 import React,{useState,useEffect} from 'react';
 import axios from 'axios';
+import { Route } from 'react-router-dom';
 
 import './App.css';
 import  Header  from './components/Header';
 
-import { Home } from './pages'; 
-import { Favorites } from './pages'; 
+import { Home, Favorites } from './pages'; 
 
-import { Route } from 'react-router-dom';
 function App() {
   const [list,setList] = useState()
   useEffect(() => {
@@ -22,7 +21,7 @@ function App() {
       card.isFavorite = !card.isFavorite
     }else{card.isFavorite = true}   
     const idx = list.findIndex(el => el.id === id)
-    console.log(idx)
+
     const newList = [ 
       ...list.slice(0,idx),
       card,
